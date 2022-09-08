@@ -91,3 +91,16 @@ img{
     color: gray;
     font-weight: bold;
 }
+.gender{
+    font-size: 22px;
+}
+.signup{
+    color: #fff;
+    background: green;
+    border-radius: 4px;
+    font-size: 28px;
+    width: 189px;    
+}
+.signup:hover{
+    background: darkgreen;
+}
